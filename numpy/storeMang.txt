@@ -1,0 +1,5 @@
+$25.50;10;In_Stock
+$105.00;5;Low_Stock
+$3.99;100;In_Stock
+$0.50;0;Out_of_Stock
+$1250.75;2;Low_Stock
